@@ -1,6 +1,7 @@
 body {
   background-color: #fff8f0;
 }
+
 .homenat {
   font-size: 80px;
   color: #3f3431;
@@ -86,12 +87,7 @@ img {
 .hideDesktop {
   display: none;
 }
-.aboutIt {
-  font-family: "Work Sans", sans-serif;
-  color: black;
-  font-weight: 400;
-  text-align: center;
-}
+
 @media (max-width: 1000px) {
   img {
     height: auto;
